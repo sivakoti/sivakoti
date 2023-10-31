@@ -1,9 +1,9 @@
 ### Hello, I am Sivakoti Reddy Bandi 👋. 
 
--    I am currently pursuing my Master's In Applied Computer Science at SRH Hochschule Heidelberg👋
+-    I am completed my Master's In Applied Computer Science at SRH Hochschule Heidelberg👋
 
-- 🔭 I’m currently working in SAP as working student in SAP UI5 Fiori development.
+- 🔭 I’m currently working in Intime Expree Logistics as Full stack developer.
 
-- 👯 I’m looking to collaborate on any projects related to software development mainly full stack development, Data Analytics.
+- 👯 I’m looking to collaborate on any projects related to software development mainly full stack development.
 
 - 📫 How to reach me: Linkedin - @Sivakoti Bandi
