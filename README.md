@@ -1,6 +1,6 @@
 ### Hello, I am Sivakoti Reddy Bandi 👋. 
 
--    I am completed my Master's In Applied Computer Science at SRH Hochschule Heidelberg👋
+-   I completed my Master's In Applied Computer Science at SRH Hochschule Heidelberg👋
 
 - 🔭 I’m currently working in Intime Expree Logistics as Full stack developer.
 
